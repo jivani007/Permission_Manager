@@ -21,9 +21,3 @@ This is a mini Bash script project to practice **Linux file permissions and owne
 - Change ownership
 - Show file details
 
-" > README.md
-
-# Add README to git
-git add README.md
-git commit -m "Added README"
-git push
